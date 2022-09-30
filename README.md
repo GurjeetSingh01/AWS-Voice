@@ -1,3 +1,3 @@
 # AWS-Voice
 
-# A tool to control the AWS-Public Cloud using voice ability.
+# A tool to Control the AWS-Public Cloud using voice ability.
