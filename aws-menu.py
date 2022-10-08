@@ -83,4 +83,4 @@ while True:
 		exit() 
 
 		
-		#the ended
+		#the coded ended
