@@ -81,3 +81,6 @@ while True:
 	else:
 		pyttsx3.speak("thank you for using me !! Have a good day")
 		exit() 
+
+		
+		#the ended
